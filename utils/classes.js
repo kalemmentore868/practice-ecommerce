@@ -20,13 +20,13 @@ const classes = {
       color: "#ffffff",
       marginLeft: 1,
     },
-    toolbar: {
-      justifyContent: "space-between",
-    },
-    brand: {
-      fontWeight: "bolder",
-      fontSize: "1.5rem",
-    },
+  },
+  toolbar: {
+    justifyContent: "space-between",
+  },
+  brand: {
+    fontWeight: "bolder",
+    fontSize: "1.5rem",
   },
 };
 
